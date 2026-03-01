@@ -1,0 +1,69 @@
+{
+  "sourceUrl": "https://www.airbnb.com.ar/rooms/1055939742360175909",
+  "lastUpdated": "2026-03-01T00:00:00.000Z",
+  "title": "Casa increíble para 8 personas (+2) patio + parrilla",
+  "locationText": "Buenos Aires, Argentina",
+  "summary": "10 huéspedes · 4 dormitorios · 6 camas · 3 baños",
+  "stats": {
+    "guests": 10,
+    "bedrooms": 4,
+    "beds": 6,
+    "baths": 3
+  },
+  "rating": {
+    "value": 4.95,
+    "reviewCount": 24
+  },
+  "highlights": [
+    "Check-in sin anfitrión (cerradura con teclado)",
+    "Muy espacioso (350 metros)",
+    "Patio y parrilla"
+  ],
+  "descriptionBlocks": [
+    "Casa amplia y luminosa pensada para grupos, familias y profesionales que buscan estadias comodas.",
+    "Incluye espacios para trabajar con buena conectividad, areas compartidas para convivir y patio para disfrutar al aire libre."
+  ],
+  "houseRules": [
+    "No se permiten fiestas."
+  ],
+  "bedrooms": [
+    {
+      "name": "Dormitorio 1",
+      "beds": "1 cama king"
+    },
+    {
+      "name": "Dormitorio 2",
+      "beds": "1 cama queen"
+    },
+    {
+      "name": "Dormitorio 3",
+      "beds": "2 camas de una plaza"
+    },
+    {
+      "name": "Dormitorio 4",
+      "beds": "2 camas de una plaza"
+    }
+  ],
+  "sharedAreas": [
+    "Living amplio con zona social",
+    "Comedor para comidas compartidas",
+    "Patio privado con parrilla"
+  ],
+  "amenities": [
+    "Cocina",
+    "Wifi",
+    "Zona de trabajo",
+    "Estacionamiento gratis en la calle",
+    "TV"
+  ],
+  "host": {
+    "name": "Matias",
+    "tags": [
+      "Superanfitrión"
+    ]
+  },
+  "photos": [
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-1055939742360175909/original/bfaf7edc-6e6f-4ae2-844f-22a7473a0250.jpeg?im_w=1200",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-1055939742360175909/original/9af5a43f-591c-4eeb-a003-89c586bcea4a.jpeg?im_w=1200"
+  ]
+}
